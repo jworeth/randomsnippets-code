@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FluxConfig>
+  <Username>someGuy</Username>
+  <Password>1123h123h123</Password>
+  <FarmPath>C:\Blah</FarmPath>
+  <NodeListPath>C:\Blah</NodeListPath>
+  <BlacklistPath>C:\Blah</BlacklistPath>
+  <DoHerb>Y</DoHerb>
+  <DoMine>Y</DoMine>
+  <NinjaFarm>Y</NinjaFarm>
+  <FlyingMount>Y</FlyingMount>
+  <GroundMount>N</GroundMount>
+  <NoMount>N</NoMount>
+</FluxConfig>

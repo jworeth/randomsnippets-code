@@ -1,0 +1,10 @@
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Compiled\Flux.WoW.dll
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Compiled\Flux.WoW.pdb
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux.WoW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux.WoW\obj\Debug\Flux.WoW.dll
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux.WoW\obj\Debug\Flux.WoW.pdb
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Compiled\Flux.WoW.dll
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Compiled\Flux.WoW.pdb
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux.WoW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux.WoW\obj\Debug\Flux.WoW.dll
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux.WoW\obj\Debug\Flux.WoW.pdb
