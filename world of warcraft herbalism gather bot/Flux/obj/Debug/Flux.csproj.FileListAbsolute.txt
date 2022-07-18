@@ -1,0 +1,20 @@
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Compiled\Flux.exe
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Compiled\Flux.pdb
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux\obj\Debug\Flux.FormKnownSpells.resources
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux\obj\Debug\Flux.FormMain.resources
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux\obj\Debug\Flux.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux\obj\Debug\Flux.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux\obj\Debug\Flux.exe
+C:\Documents and Settings\Admin\Desktop\FluxCompile\Flux\obj\Debug\Flux.pdb
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Compiled\Flux.exe
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Compiled\Flux.pdb
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux\obj\Debug\Flux.FormKnownSpells.resources
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux\obj\Debug\Flux.FormMain.resources
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux\obj\Debug\Flux.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux\obj\Debug\Flux.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux\obj\Debug\Flux.exe
+C:\Documents and Settings\Admin\Desktop\WoW Files\FluxCompile\Flux\obj\Debug\Flux.pdb
+D:\Compile Laptop Softwares\WoW Files\FluxCompile\Flux\obj\Debug\Flux.exe
+D:\Compile Laptop Softwares\WoW Files\FluxCompile\Flux\obj\Debug\Flux.pdb
